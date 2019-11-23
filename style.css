@@ -1,0 +1,33 @@
+.btn-click {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: none;
+  border: solid 1px #000000;
+  border-radius: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
+.btn-click:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+div {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  border: 2px solid black;
+}
+
+.circle {
+  background-color: white;
+  border-radius: 50%;
+  color: black;
+  border: 2px solid black;
+}
