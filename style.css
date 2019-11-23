@@ -1,12 +1,13 @@
 .btn-click {
   display: block;
-  margin: 10px auto;
+  margin: 20px auto;
   padding: 10px 20px;
   background: none;
-  border: solid 1px #000000;
+  border: solid 2px #000000;
   border-radius: 10px;
   font-size: 25px;
   cursor: pointer;
+  transition: all ease .2s;
 }
 .btn-click:hover {
   background: #000000;
@@ -23,6 +24,7 @@ div {
   text-align: center;
   line-height: 30px;
   border: 2px solid black;
+  border-radius: 5px;
 }
 
 .circle {
